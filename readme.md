@@ -27,23 +27,22 @@ Tips:
 - [**Pandas***](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
 *Permite trabajar con Dataframes y aplicar algorimos de machine learning.*
 
-- [*Seaborn*](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy) o [*Matplotlib*](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
+- [Seaborn](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy) o [Matplotlib](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
 *Ambos módulos son los más elegidos para graficar. En lo personal, elijo Seaborn por su estética.
 No los considero un aprendizaje obligatorio porque no hay nada que mecanizar, razonar o entender.*
 
-<h3 align='center'>3. MATHS</h3>
-<p align='center'><em>Ni idea qué es, hay q investigar</em></p>
-
-<h3 align='center'>4. Machine Learning</h3>
+<h3 align='center'>3. Machine Learning</h3>
 <p align='center'><em>REVISAR</em></p>
 
-[LINK](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
+- [Matemática Estadística](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l)
+- [Machine Learning Algorithms](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
+- [Machine Learning Projects](https://www.youtube.com/playlist?list=PLeo1K3hjS3ut2o1ay5Dqh-r1kq6ZU8W0M)
 
 <h3 align='center'>5. Deep Learning</h3>
 <p align='center'><em>Ni idea qué es, hay q investigar</em></p>
 
-[LINK](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
-
+- [Tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+- [Proyectos](https://www.youtube.com/playlist?list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S)
 - Tensorflow
 - Pytorch
 - Keras
