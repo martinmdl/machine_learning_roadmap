@@ -18,7 +18,7 @@ Tips:
 *No lo vi. Pero en general, es muy útil aprender el paradigma de programación orientada a objetos*
 
 <h3 align='center'> 2. Módulos de Python</h3>
-<span align='center'><em>Módulo = Libería. Aportan funcionalidades a python</em></span>
+<p align='center'><em>Módulo = Libería. Aportan funcionalidades a python</em></p>
 
 - [Numpy](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
 *Amplía y facilita las operaciones numéricas. Además Pandas se basa en Numpy*
