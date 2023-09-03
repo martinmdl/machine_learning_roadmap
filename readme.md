@@ -49,7 +49,7 @@ Proyectos guiados para prácticar lo aprendido y agregar al portfolio
 
 <hr>
 <h3 align='center'>5. Deep Learning</h3>
-<p align='center'><em>work in progress/em></p>
+<p align='center'><em>work in progress</em></p>
 
 - [Tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - [Proyectos](https://www.youtube.com/playlist?list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S)
