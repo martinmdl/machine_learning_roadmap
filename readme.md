@@ -2,8 +2,8 @@
 <p align='center'>Ruta de aprendizaje para perfiles orientados a ciencia de datos y machine learning.</p>
 
 Tips:
-- ***Título resaltado*** = Obligatorio
-- *Título en cursiva* = Opcional
+- ****Curso obligatorio****.
+- *Curso opcional*.
 - Saltear contenido ya aprendido.
 - Ejercitar a medida que se avanza.
 - Acostumbrarse a resolver dudas con Bard, GPT, StackOverflow, Documentación.
