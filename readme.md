@@ -1,4 +1,4 @@
-<h1 align='center' style='color:purple'>Machine Learning Roadmap</h1>
+<h1 align='center'>Machine Learning Roadmap</h1>
 <p align='center'><em>Ruta de aprendizaje para perfiles orientados a ciencia de datos y machine learning.<br>
 Unicamente son tres los cursos que considero imprescindibles para conseguir trabajo.</em></p>
 
