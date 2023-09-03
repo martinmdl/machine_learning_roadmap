@@ -8,8 +8,8 @@ Tips:
 - Ejercitar a medida que se avanza
 - Acostumbrarse a resolver dudas con Bard, GPT, StackOverflow, Documentación.
 
-### 1. Python
-*Lenguaje versátil de alto nivel. Utilidad: datos, backend, software dev3*
+<h3 align='center'>1. Python</h3>
+<p align='center'><em>Lenguaje versátil de alto nivel. Utilidad: datos, backend, software dev</em></p>
 
 - [**Python desde cero***](https://youtu.be/nKPbfIU442g?si=7K1FnMw_VqU6Cp0t)
 *Intro a la programación, tipos datos, colecciones, sintaxis, archivos, expresiones regulares*
@@ -17,7 +17,7 @@ Tips:
 - [Python objetos](https://youtu.be/HtKqSJX7VoM?si=TMJma4HQQUcUw8Af)
 *No lo vi. Pero en general, es muy útil aprender el paradigma de programación orientada a objetos*
 
-<h3 align='center'> 2. Módulos de Python</h3>
+<h3 align='center'>2. Módulos de Python</h3>
 <p align='center'><em>Módulo = Libería. Aportan funcionalidades a python</em></p>
 
 - [Numpy](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
@@ -30,13 +30,24 @@ Tips:
 *Ambos módulos son los más elegidos para graficar. En lo personal, elijo Seaborn por su estética.
 No los considero un aprendizaje obligatorio porque no hay nada que mecanizar, razonar o entender.*
 
-### 3. Deep learning
+<h3 align='center'>3. MATHS</h3>
+<p align='center'><em>Ni idea qué es, hay q investigar</em></p>
+
+<h3 align='center'>4. Machine Learning</h3>
+<p align='center'><em>REVISAR</em></p>
+
+[LINK](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
+
+<h3 align='center'>5. Deep Learning</h3>
+<p align='center'><em>Ni idea qué es, hay q investigar</em></p>
+
+[LINK](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 
 - Tensorflow
 - Pytorch
 - Keras
 
-Ni idea que es, hay q investigar.
+
 
 
 
