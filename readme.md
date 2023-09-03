@@ -66,7 +66,7 @@ Proyectos guiados para prácticar lo aprendido y agregar al portfolio.
 Comunidad que sube datasets y sus correspondientes análisis y modelos de predicción (IA).
 
 - [*US Gov*](https://catalog.data.gov/dataset?q=&sort=views_recent+desc)
-Datasets oficiales de Estados Unidos,. Hacer proyectos con información y resultados reales es mucho más valioso.
+Datasets oficiales de Estados Unidos. Hacer proyectos con información y resultados reales es mucho más valioso.
 
 - [*Notebook Viewer*](https://nbviewer.org/)
 Permite visualizar archivos en Jupyter Notebook (.ipynb) ingresando el link de GitHub.
@@ -75,7 +75,7 @@ Permite visualizar archivos en Jupyter Notebook (.ipynb) ingresando el link de G
 Explicación detallada del funcionamiento de las IAs de manera gráfica.
 
 - [*GitHub Pages*](https://pages.github.com/)
-Herramienta de GitHub para crear un portfolio de manera prolija y profesional sin necesidad de programar un sitio web.
+Herramienta para crear un portfolio prolijo y profesional sin necesidad de programar un sitio web.
 
 
 
