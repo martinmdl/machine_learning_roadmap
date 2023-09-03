@@ -11,11 +11,10 @@ Tips:
 ### 1. Python
 *Lenguaje versátil de alto nivel. Utilidad: datos, backend, software dev3*
 
-- [**Python desde cero**](https://youtu.be/nKPbfIU442g?si=7K1FnMw_VqU6Cp0t)
-
+• [**Python desde cero***](https://youtu.be/nKPbfIU442g?si=7K1FnMw_VqU6Cp0t)
 *Intro a la programación, tipos datos, colecciones, sintaxis, archivos, expresiones regulares*
 
-- [Python objetos](https://youtu.be/HtKqSJX7VoM?si=TMJma4HQQUcUw8Af)
+• [Python objetos](https://youtu.be/HtKqSJX7VoM?si=TMJma4HQQUcUw8Af)
 
 *No lo vi. Pero en general, es muy útil aprender el paradigma de programación orientada a objetos*
 
