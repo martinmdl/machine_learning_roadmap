@@ -1,5 +1,5 @@
 <h1 align='center'>Machine Learning Roadmap</h1>
-<p align='center'>Ruta de aprendizaje para perfiles orientados a ciencia de datos y machine learning.</p>
+<p align='center'><font size="1"><em>Ruta de aprendizaje para perfiles orientados a ciencia de datos y machine learning.</em></font></p>
 
 Tips:
 - [***Título resaltado**]() = Obligatorio
@@ -23,7 +23,7 @@ No lo vi. Pero en general, es muy útil aprender el paradigma de programación o
 <h3 align='center'>2. Módulos de Python</h3>
 <p align='center'>Módulo = Libería. Aportan funcionalidades a python</p>
 
-- [*Numpy]*(https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
+- [*Numpy*](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
 Amplía y facilita las operaciones numéricas. Además Pandas se basa en Numpy.
 
 - [***Pandas**](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
