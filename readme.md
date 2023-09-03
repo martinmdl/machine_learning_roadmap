@@ -40,10 +40,10 @@ sino porque no hay nada que mecanizar, razonar o entender.
 <p align='center'><em>Predicciones a partir de algoritmos de aprendizaje automático. Aka Inteligencia Artificial</em></p>
 
 - [*Matemática Estadística*](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l)
-Teoría básica para poder depurar el dataframe con mayor criterio antes de ejecutar las líneas código que entrenaran al modelo de predicción.
+Teoría básica para poder depurar el dataframe con mayor criterio antes de ejecutar las líneas código que entrenarán al modelo de predicción.
 
 - [***Sklearn**](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
-Este módulo de Python contiene los algoritmos mas usados de ML.
+Este módulo de Python contiene los algoritmos más usados de ML.
 
 - [*Machine Learning Projects*](https://www.youtube.com/playlist?list=PLeo1K3hjS3ut2o1ay5Dqh-r1kq6ZU8W0M)
 Proyectos guiados para prácticar lo aprendido y agregar al portfolio.
