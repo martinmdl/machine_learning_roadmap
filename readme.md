@@ -17,13 +17,11 @@ Tips:
 - [Python objetos](https://youtu.be/HtKqSJX7VoM?si=TMJma4HQQUcUw8Af)
 *No lo vi. Pero en general, es muy útil aprender el paradigma de programación orientada a objetos*
 
-### 2. Módulos de Python
-*Módulo = Libería. Aportan funcionalidades a python*
+<h3 align='center'> 2. Módulos de Python</h3>
+<span align='center'><em>Módulo = Libería. Aportan funcionalidades a python</em></span>
 
 - [Numpy](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
-
 *Amplía y facilita las operaciones numéricas. Además Pandas se basa en Numpy*
-
 
 - [**Pandas***](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
 *Permite trabajar con Dataframes y aplicar algorimos de machine learning.*
