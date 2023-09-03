@@ -49,12 +49,8 @@ Proyectos guiados para prácticar lo aprendido y agregar al portfolio
 
 <hr>
 <h3 align='center'>5. Deep Learning</h3>
-<p align='center'><em>La diferencia dentre ML y DL es la cantidad de nodos que tiene la red neuronal,
-lo que permite obtener resultados mas precisos inlcuso a partir de un dataset crudo.
-Para lograrlo, se utilizan frameworks de python tales como Tensorflow (Google) o Pytorch (Meta),
-los cuales demandan una mayor capacidad de procesamiento de la que veníamos necesitando hasta ahora</em></p>
-
-<p align='center'><em>Frameworks de Python que nos permitirán automatizar más el trabajo y obtener mejores resultados, a costa de mayores tiempos de procesamiento y espacios en memoria.</em></p>
+<p align='center'><em>Frameworks de Python que nos permitirán automatizar más el trabajo y obtener mejores resultados,
+a costa de mayores tiempos de procesamiento y espacios en memoria.</em></p>
 
 - [Tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - [Proyectos](https://www.youtube.com/playlist?list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S)
