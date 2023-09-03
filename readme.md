@@ -2,8 +2,8 @@
 <p align='center'><em>Ruta de aprendizaje para perfiles orientados a ciencia de datos y machine learning.</em></p>
 
 Tips:
-- [***Título resaltado**]() = Obligatorio
-- [*Título cursiva*]() = Opcional
+- [***Título resaltado**]() = Curso obligatorio
+- [*Título cursiva*]() = Curso opcional
 - Saltear contenido ya aprendido.
 - Ejercitar a medida que se avanza.
 - Acostumbrarse a resolver dudas con [Bard](https://bard.google.com/), [GPT](https://chat.openai.com/), [StackOverflow](https://es.stackoverflow.com/), Documentación oficial.
@@ -24,14 +24,15 @@ No lo vi. Pero en general, es muy útil aprender el paradigma de programación o
 <p align='center'><em>Módulo = Libería. Aportan funcionalidades a python.</em></p>
 
 - [*Numpy*](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
-Amplía y facilita las operaciones numéricas. Además Pandas se basa en Numpy.
+Amplía y facilita las operaciones numéricas propias de python. Además Pandas se basa en Numpy.
 
 - [***Pandas**](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
 Permite trabajar con Dataframes y aplicar algorimos de machine learning.
 
 - [*Seaborn*](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy) o [*Matplotlib*](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
 *Ambos módulos son los más elegidos para graficar. En lo personal, elijo Seaborn por su estética.
-No los considero un aprendizaje obligatorio porque no hay nada que mecanizar, razonar o entender.*
+No los considero un aprendizaje obligatorio porque no porque no sean importantes,
+sino porque no hay nada que mecanizar, razonar o entender.*
 
 <hr>
 <h3 align='center'>3. Machine Learning</h3>
