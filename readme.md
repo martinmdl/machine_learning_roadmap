@@ -7,7 +7,7 @@ Tips:
 - Saltear contenido ya aprendido.
 - Ejercitar a medida que se avanza.
 - Acostumbrarse a resolver dudas con Bard, GPT, StackOverflow, Documentación.
-- El acento indio en inglés de *codebasics* se hace pesado, pero tiene subtitulos perfectos.
+- El acento indio del inglés de *codebasics* se hace pesado, pero tiene subtítulos perfectos.
 
 <hr>
 <h3 align='center'>1. Python</h2>
@@ -21,7 +21,7 @@ No lo vi. Pero en general, es muy útil aprender el paradigma de programación o
 
 <hr>
 <h3 align='center'>2. Módulos de Python</h3>
-<p align='center'><em>Módulo = Libería. Aportan funcionalidades a python</em></p>
+<p align='center'><em>Módulo = Libería. Aportan funcionalidades a python.</em></p>
 
 - [*Numpy*](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
 Amplía y facilita las operaciones numéricas. Además Pandas se basa en Numpy.
