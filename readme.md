@@ -46,7 +46,7 @@ Teoría básica para poder depurar el dataframe con mayor criterio antes de ejec
 Explicación a implementación de los algoritmos mas útiles de Machine Learning.
 
 - [*Machine Learning Projects*](https://www.youtube.com/playlist?list=PLeo1K3hjS3ut2o1ay5Dqh-r1kq6ZU8W0M)
-Proyectos guiados para prácticar lo aprendido y agregar al portfolio
+Proyectos guiados para prácticar lo aprendido y agregar al portfolio.
 
 <hr>
 <h3 align='center'>5. Deep Learning</h3>
@@ -63,16 +63,16 @@ Proyectos guiados para prácticar lo aprendido y agregar al portfolio
 Comunidad que sube datasets y sus correspondientes análisis y modelos de predicción (IA).
 
 - [*US Gov*](https://catalog.data.gov/dataset?q=&sort=views_recent+desc)
-Datasets oficiales de Estados Unidos,. Hacer proyectos con información y resultados reales es mucho mas valioso.
+Datasets oficiales de Estados Unidos,. Hacer proyectos con información y resultados reales es mucho más valioso.
 
 - [*Notebook Viewer*](https://nbviewer.org/)
 Permite visualizar archivos en Jupyter Notebook (.ipynb) ingresando el link de GitHub.
 
-- [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [*3Blue1Brown*](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 Explicación detallada del funcionamiento de las IAs de manera gráfica.
 
-
-
+- [*GitHub Pages*](https://pages.github.com/)
+Herramienta de GitHub para crear un portfolio de manera prolija y profesional sin necesidad de programar un sitio web.
 
 
 
