@@ -3,7 +3,7 @@
 Ruta de aprendizaje para perfiles orientados a ciencia de datos y machine learning.
 
 Tips:
-- **Título resaltado** = Tema obligatorio
+- **Título resaltado*** = Tema obligatorio
 - Saltear contenido ya aprendido
 - Ejercitar a medida que se avanza
 - Acostumbrarse a resolver dudas con Bard, GPT, StackOverflow, Documentación.
@@ -12,15 +12,20 @@ Tips:
 *Lenguaje versátil de alto nivel. Utilidad: datos, backend, software dev3*
 
 - [**Python desde cero**](https://youtu.be/nKPbfIU442g?si=7K1FnMw_VqU6Cp0t)
+
 *Intro a la programación, tipos datos, colecciones, sintaxis, archivos, expresiones regulares*
+
 - [Python objetos](https://youtu.be/HtKqSJX7VoM?si=TMJma4HQQUcUw8Af)
+
 *No lo vi. Pero en general, es muy útil aprender el paradigma de programación orientada a objetos*
 
-## 2. Módulos de Python
+### 2. Módulos de Python
 *Módulo = Libería. Aportan funcionalidades a python*
 
 - [Numpy](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
+
 *Amplía y facilita las operaciones numéricas. Además Pandas se basa en Numpy*
+
 
 - [**Pandas**](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
 *Permite trabajar con Dataframes y aplicar algorimos de machine learning.*
@@ -30,7 +35,7 @@ Tips:
 *Ambos módulos son los más elegidos para graficar. En lo personal, elijo Seaborn por su estética.
 No los considero un aprendizaje obligatorio porque no hay nada que mecanizar, razonar o entender.*
 
-## 3. Deep learning
+### 3. Deep learning
 
 - Tensorflow
 - Pytorch
