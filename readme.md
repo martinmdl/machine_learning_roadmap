@@ -1,5 +1,6 @@
 <h1 align='center'>Machine Learning Roadmap</h1>
-<p align='center'><em>Ruta de aprendizaje para perfiles orientados a ciencia de datos y machine learning.</em></p>
+<p align='center'><em>Ruta de aprendizaje para perfiles orientados a ciencia de datos y machine learning.
+Unicamente son tres los cursos que considero imprescindibles para conseguir trabajo.</em></p>
 
 Tips:
 - [***Título resaltado**]() = Obligatorio
@@ -51,8 +52,8 @@ Proyectos guiados para prácticar lo aprendido y agregar al portfolio
 <h3 align='center'>5. Deep Learning</h3>
 <p align='center'><em>Frameworks de Python para obtener resultados más precisos a partir de redes neuronales.</em></p>
 
-- [Tensorflow desde cero](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
-- [Tensorflow Projects](https://www.youtube.com/playlist?list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S)
+- [*Tensorflow desde cero*](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+- [*Tensorflow Projects*](https://www.youtube.com/playlist?list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S)
 
 <hr>
 <h3 align='center'>6. Recursos Extra</h3>
