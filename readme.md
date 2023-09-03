@@ -6,7 +6,8 @@ Tips:
 - **Título resaltado*** = Tema obligatorio
 - Saltear contenido ya aprendido
 - Ejercitar a medida que se avanza
-- Acostumbrarse a resolver dudas con Bard, GPT, StackOverflow, Documentación.
+- Acostumbrarse a resolver dudas con Bard, GPT, StackOverflow, Documentación
+- El acento indio en inglés de *codebasics* se hace pesado, pero tiene subtitulos perfectos.
 
 <h3 align='center'>1. Python</h3>
 <p align='center'><em>Lenguaje versátil de alto nivel. Utilidad: datos, backend, software dev</em></p>
