@@ -20,8 +20,8 @@ Intro a la programación, tipos datos, colecciones, sintaxis, archivos, expresio
 En general, es muy útil aprender el paradigma de programación orientada a objetos.
 
 <hr>
-<h3 align='center'>2. Módulos de Python</h3>
-<p align='center'><em>Los módulos/liberías aportan funcionalidades a python.</em></p>
+<h3 align='center'>2. Data Analysis</h3>
+<p align='center'><em>Módulos/liberías de Python que aportan nuevas funcionalidades al lenguaje.</em></p>
 
 - [*Numpy*](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
 Amplía y facilita las operaciones numéricas propias de python. Además, Pandas se basa en Numpy.
