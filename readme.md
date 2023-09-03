@@ -1,5 +1,5 @@
 <h1 align='center'>Machine Learning Roadmap</h1>
-<p align='center'><font size="1"><em>Ruta de aprendizaje para perfiles orientados a ciencia de datos y machine learning.</em></font></p>
+<p align='center'><font size="10"><em>Ruta de aprendizaje para perfiles orientados a ciencia de datos y machine learning.</em></font></p>
 
 Tips:
 - [***Título resaltado**]() = Obligatorio
@@ -12,6 +12,7 @@ Tips:
 <hr>
 <h3 align='center'>1. Python</h2>
 <p align='center'>Lenguaje versátil de alto nivel. Utilidad: datos, backend, software dev.</p>
+<p align='center'><font size="2"><em>Ruta de aprendizaje para perfiles orientados a ciencia de datos y machine learning.</em></font></p>
 
 - [***Python desde cero**](https://youtu.be/nKPbfIU442g?si=7K1FnMw_VqU6Cp0t)
 Intro a la programación, tipos datos, colecciones, sintaxis, archivos, expresiones regulares.
