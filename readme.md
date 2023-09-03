@@ -65,7 +65,7 @@ Proyectos guiados para prácticar lo aprendido y agregar al portfolio
 Comunidad que sube datasets y sus correspondientes análisis y modelos de predicción (IA).
 
 - [*US Gov*](https://catalog.data.gov/dataset?q=&sort=views_recent+desc)
-Datasets oficiales de Estados Unidos, hacer proyectos con información y resultados reales es mucho mas valioso.
+Datasets oficiales de Estados Unidos,. Hacer proyectos con información y resultados reales es mucho mas valioso.
 
 - [*Notebook Viewer*](https://nbviewer.org/)
 Permite visualizar archivos en Jupyter Notebook (.ipynb) ingresando el link de GitHub
