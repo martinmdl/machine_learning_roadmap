@@ -3,7 +3,7 @@
 
 Tips:
 - [***Título resaltado**]() = Obligatorio
-- [*Curso opcional*]() = Opcional
+- [*Título cursiva*]() = Opcional
 - Saltear contenido ya aprendido.
 - Ejercitar a medida que se avanza.
 - Acostumbrarse a resolver dudas con Bard, GPT, StackOverflow, Documentación.
