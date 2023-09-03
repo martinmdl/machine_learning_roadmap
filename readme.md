@@ -2,10 +2,11 @@
 <p align='center'>Ruta de aprendizaje para perfiles orientados a ciencia de datos y machine learning.</p>
 
 Tips:
-- **Título resaltado*** = Tema obligatorio
-- Saltear contenido ya aprendido
-- Ejercitar a medida que se avanza
-- Acostumbrarse a resolver dudas con Bard, GPT, StackOverflow, Documentación
+- ***Título resaltado*** = Obligatorio
+- *Título en cursiva* = Opcional
+- Saltear contenido ya aprendido.
+- Ejercitar a medida que se avanza.
+- Acostumbrarse a resolver dudas con Bard, GPT, StackOverflow, Documentación.
 - El acento indio en inglés de *codebasics* se hace pesado, pero tiene subtitulos perfectos.
 
 <hr>
@@ -13,20 +14,20 @@ Tips:
 <p align='center'>Lenguaje versátil de alto nivel. Utilidad: datos, backend, software dev.</p>
 <hr>
 
-- [**Python desde cero***](https://youtu.be/nKPbfIU442g?si=7K1FnMw_VqU6Cp0t)
-*Intro a la programación, tipos datos, colecciones, sintaxis, archivos, expresiones regulares.*
+- [***Python desde cero***](https://youtu.be/nKPbfIU442g?si=7K1FnMw_VqU6Cp0t)
+Intro a la programación, tipos datos, colecciones, sintaxis, archivos, expresiones regulares.
 
 - [Python objetos](https://youtu.be/HtKqSJX7VoM?si=TMJma4HQQUcUw8Af)
-*No lo vi. Pero en general, es muy útil aprender el paradigma de programación orientada a objetos.*
+No lo vi. Pero en general, es muy útil aprender el paradigma de programación orientada a objetos.
 
 <h3 align='center'>2. Módulos de Python</h3>
 <p align='center'>Módulo = Libería. Aportan funcionalidades a python</p>
 
 - [Numpy](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
-*Amplía y facilita las operaciones numéricas. Además Pandas se basa en Numpy.*
+Amplía y facilita las operaciones numéricas. Además Pandas se basa en Numpy.
 
-- [**Pandas***](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
-*Permite trabajar con Dataframes y aplicar algorimos de machine learning.*
+- [***Pandas***](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
+Permite trabajar con Dataframes y aplicar algorimos de machine learning.
 
 - [Seaborn](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy) o [Matplotlib](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
 *Ambos módulos son los más elegidos para graficar. En lo personal, elijo Seaborn por su estética.
