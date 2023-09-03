@@ -1,6 +1,5 @@
 <h1 align='center'>Machine Learning Roadmap</h1>
-
-Ruta de aprendizaje para perfiles orientados a ciencia de datos y machine learning.
+<p align='center'><em>Ruta de aprendizaje para perfiles orientados a ciencia de datos y machine learning.</em></p>
 
 Tips:
 - **Título resaltado*** = Tema obligatorio
@@ -9,7 +8,7 @@ Tips:
 - Acostumbrarse a resolver dudas con Bard, GPT, StackOverflow, Documentación
 - El acento indio en inglés de *codebasics* se hace pesado, pero tiene subtitulos perfectos.
 
-<h3 align='center'>1. Python</h3>
+<h2 align='center'>1. Python</h2>
 <p align='center'><em>Lenguaje versátil de alto nivel. Utilidad: datos, backend, software dev</em></p>
 
 - [**Python desde cero***](https://youtu.be/nKPbfIU442g?si=7K1FnMw_VqU6Cp0t)
@@ -32,14 +31,14 @@ Tips:
 No los considero un aprendizaje obligatorio porque no hay nada que mecanizar, razonar o entender.*
 
 <h3 align='center'>3. Machine Learning</h3>
-<p align='center'><em>REVISAR</em></p>
+<p align='center'><em>COMPLETAR</em></p>
 
 - [Matemática Estadística](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l)
 - [Machine Learning Algorithms](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
 - [Machine Learning Projects](https://www.youtube.com/playlist?list=PLeo1K3hjS3ut2o1ay5Dqh-r1kq6ZU8W0M)
 
 <h3 align='center'>5. Deep Learning</h3>
-<p align='center'><em>Ni idea qué es, hay q investigar</em></p>
+<p align='center'><em>Ni idea qué es, REVISAR</em></p>
 
 - [Tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - [Proyectos](https://www.youtube.com/playlist?list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S)
@@ -49,12 +48,9 @@ No los considero un aprendizaje obligatorio porque no hay nada que mecanizar, ra
 
 
 
-
-
-
-<span style="color: red;">This text is red</span>
-
-\textcolor{red}{This text is red}
+<hr>
+<hr>
+<hr>
 
 
 
