@@ -19,7 +19,7 @@ Modulos de Python
 
 <span style="color: red;">This text is red</span>
 
-https://youtu.be/HtKqSJX7VoM?si=TMJma4HQQUcUw8Af
+\textcolor{red}{This text is red}
 
 
 
