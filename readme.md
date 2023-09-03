@@ -1,6 +1,6 @@
 <h1 align='center'>Machine Learning Roadmap</h1>
 
-<h2 color='red'>Python</h2>
+<h2 font color="red"='red'>Python</h2>
 
 - [**Python desde cero**](https://youtu.be/nKPbfIU442g?si=7K1FnMw_VqU6Cp0t)
 
