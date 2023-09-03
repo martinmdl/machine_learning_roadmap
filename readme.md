@@ -1,5 +1,5 @@
 <h1 align='center'>Machine Learning Roadmap</h1>
-<p align='center'><font size="10"><em>Ruta de aprendizaje para perfiles orientados a ciencia de datos y machine learning.</em></font></p>
+<p align='center'><em>Ruta de aprendizaje para perfiles orientados a ciencia de datos y machine learning.</em></p>
 
 Tips:
 - [***Título resaltado**]() = Obligatorio
@@ -11,8 +11,7 @@ Tips:
 
 <hr>
 <h3 align='center'>1. Python</h2>
-<p align='center'>Lenguaje versátil de alto nivel. Utilidad: datos, backend, software dev.</p>
-<p align='center'><font size="2"><em>Ruta de aprendizaje para perfiles orientados a ciencia de datos y machine learning.</em></font></p>
+<p align='center'><em>Lenguaje versátil de alto nivel. Utilidad: datos, backend, software dev.</em></p>
 
 - [***Python desde cero**](https://youtu.be/nKPbfIU442g?si=7K1FnMw_VqU6Cp0t)
 Intro a la programación, tipos datos, colecciones, sintaxis, archivos, expresiones regulares.
@@ -22,7 +21,7 @@ No lo vi. Pero en general, es muy útil aprender el paradigma de programación o
 
 <hr>
 <h3 align='center'>2. Módulos de Python</h3>
-<p align='center'>Módulo = Libería. Aportan funcionalidades a python</p>
+<p align='center'><em>Módulo = Libería. Aportan funcionalidades a python</em></p>
 
 - [*Numpy*](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
 Amplía y facilita las operaciones numéricas. Además Pandas se basa en Numpy.
@@ -36,7 +35,7 @@ No los considero un aprendizaje obligatorio porque no hay nada que mecanizar, ra
 
 <hr>
 <h3 align='center'>3. Machine Learning</h3>
-<p align='center'>COMPLETAR</p>
+<p align='center'><em>COMPLETAR</em></p>
 
 - [*Matemática Estadística*](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l)
 - [***Machine Learning Algorithms**](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
@@ -44,7 +43,7 @@ No los considero un aprendizaje obligatorio porque no hay nada que mecanizar, ra
 
 <hr>
 <h3 align='center'>5. Deep Learning</h3>
-<p align='center'>Ni idea qué es, REVISAR</p>
+<p align='center'><em>Ni idea qué es, REVISAR</em></p>
 
 - [Tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - [Proyectos](https://www.youtube.com/playlist?list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S)
