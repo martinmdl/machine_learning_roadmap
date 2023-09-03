@@ -2,10 +2,10 @@
 <p align='center'><em>Ruta de aprendizaje para perfiles orientados a ciencia de datos y machine learning.</em></p>
 
 Tips:
-- [***Título resaltado**]() = Curso obligatorio
-- [*Título cursiva*]() = Curso opcional
+- [***Título resaltado**]() = Obligatorio
+- [*Título cursiva*]() = Opcional
 - Saltear contenido ya aprendido.
-- Ejercitar a medida que se avanza.
+- Tomar apuntes propios y ejercitar a medida que se avanza.
 - Acostumbrarse a resolver dudas con [Bard](https://bard.google.com/), [GPT](https://chat.openai.com/), [StackOverflow](https://es.stackoverflow.com/), Documentación oficial.
 - El acento indio del inglés de *codebasics* se hace pesado, pero tiene subtítulos perfectos.
 
@@ -24,27 +24,32 @@ No lo vi. Pero en general, es muy útil aprender el paradigma de programación o
 <p align='center'><em>Módulo = Libería. Aportan funcionalidades a python.</em></p>
 
 - [*Numpy*](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
-Amplía y facilita las operaciones numéricas propias de python. Además Pandas se basa en Numpy.
+Amplía y facilita las operaciones numéricas propias de python. Además, Pandas se basa en Numpy.
 
 - [***Pandas**](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
 Permite trabajar con Dataframes y aplicar algorimos de machine learning.
 
-- [*Seaborn*](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy) o [*Matplotlib*](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
+- [*Seaborn*](https://seaborn.pydata.org/) o [*Matplotlib*](https://matplotlib.org/)
 *Ambos módulos son los más elegidos para graficar. En lo personal, elijo Seaborn por su estética.
 No los considero un aprendizaje obligatorio porque no porque no sean importantes,
 sino porque no hay nada que mecanizar, razonar o entender.*
 
 <hr>
 <h3 align='center'>3. Machine Learning</h3>
-<p align='center'><em>COMPLETAR</em></p>
+<p align='center'><em>Algoritmos de aprendizaje automático para realizar predicciones</em></p>
 
 - [*Matemática Estadística*](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l)
+Teoría básica para poder depurar el dataframe con mayor criterio antes de ejecutar las líneas código que entrenaran al modelo de predicción.
+
 - [***Machine Learning Algorithms**](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
+Explicación a implementación de los algoritmos mas útiles de Machine Learning (ML).
+
 - [*Machine Learning Projects*](https://www.youtube.com/playlist?list=PLeo1K3hjS3ut2o1ay5Dqh-r1kq6ZU8W0M)
+Proyectos guiados para prácticar lo aprendido y agregar al portfolio
 
 <hr>
 <h3 align='center'>5. Deep Learning</h3>
-<p align='center'><em>Ni idea qué es, REVISAR</em></p>
+<p align='center'><em>work in progress/em></p>
 
 - [Tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - [Proyectos](https://www.youtube.com/playlist?list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S)
@@ -52,11 +57,18 @@ sino porque no hay nada que mecanizar, razonar o entender.*
 - Pytorch
 - Keras
 
+<hr>
+<h3 align='center'>6. Recursos Extra</h3>
+<p align='center'><em>Fuentes para realizar proyectos propios</em></p>
 
+- [*Kaggle*](https://www.kaggle.com/datasets)
+Comunidad que sube datasets y sus correspondientes análisis y modelos de predicción (IA).
 
+- [*US Gov*](https://catalog.data.gov/dataset?q=&sort=views_recent+desc)
+Datasets oficiales de Estados Unidos, hacer proyectos con información y resultados reales es mucho mas valioso.
 
-
-
+- [*Notebook Viewer*](https://nbviewer.org/)
+Permite visualizar archivos en Jupyter Notebook (.ipynb) ingresando el link de GitHub
 
 
 
