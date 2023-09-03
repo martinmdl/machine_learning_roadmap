@@ -49,8 +49,8 @@ Proyectos guiados para prácticar lo aprendido y agregar al portfolio
 
 <hr>
 <h3 align='center'>5. Deep Learning</h3>
-<p align='center'><em>Frameworks de Python para obtener resultados más precisos, incluso con datos crudos,
-a costa de un mayor uso procesador.</em></p>
+<p align='center'><em>Frameworks de Python para obtener resultados más precisos, incluso teniendo datos sin tratamiento,
+a partir de redes neuronales con mas nodos y por ende un mayor uso procesador.</em></p>
 
 - [Tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - [Proyectos](https://www.youtube.com/playlist?list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S)
