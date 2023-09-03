@@ -21,7 +21,7 @@ En general, es muy útil aprender el paradigma de programación orientada a obje
 
 <hr>
 <h3 align='center'>2. Data Analysis</h3>
-<p align='center'><em>Módulos/liberías de Python que aportan nuevas funcionalidades al lenguaje.</em></p>
+<p align='center'><em>Módulos/liberías de Python que aportan más funcionalidades al lenguaje.</em></p>
 
 - [*Numpy*](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
 Amplía y facilita las operaciones numéricas propias de python. Además, Pandas se basa en Numpy.
@@ -49,8 +49,8 @@ Proyectos guiados para prácticar lo aprendido y agregar al portfolio
 
 <hr>
 <h3 align='center'>5. Deep Learning</h3>
-<p align='center'><em>Frameworks de Python para automatizar más el trabajo y obtener resultados más precisos,
-a costa de mayores tiempos de procesamiento y espacios en memoria.</em></p>
+<p align='center'><em>Frameworks de Python para obtener resultados más precisos, incluso con datos crudos,
+a costa de un mayor uso procesador.</em></p>
 
 - [Tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - [Proyectos](https://www.youtube.com/playlist?list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S)
