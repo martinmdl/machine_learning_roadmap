@@ -21,7 +21,7 @@ En general, es muy útil aprender el paradigma de programación orientada a obje
 
 <hr>
 <h3 align='center'>2. Data Analysis</h3>
-<p align='center'><em>Módulos/liberías de Python que aportan más funcionalidades al lenguaje.</em></p>
+<p align='center'><em>Módulos/liberías de Python que aportan funcionalidad.</em></p>
 
 - [*Numpy*](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
 Amplía y facilita las operaciones numéricas propias de python. Además, Pandas se basa en Numpy.
@@ -49,18 +49,14 @@ Proyectos guiados para prácticar lo aprendido y agregar al portfolio
 
 <hr>
 <h3 align='center'>5. Deep Learning</h3>
-<p align='center'><em>Frameworks de Python para obtener resultados más precisos, incluso teniendo datos sin tratamiento,
-a partir de redes neuronales con mas nodos y por ende un mayor uso procesador.</em></p>
+<p align='center'><em>Frameworks de Python para obtener resultados más precisos a partir de redes neuronales.</em></p>
 
-- [Tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
-- [Proyectos](https://www.youtube.com/playlist?list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S)
-- Tensorflow
-- Pytorch
-- Keras
+- [Tensorflow desde cero](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+- [Tensorflow Projects](https://www.youtube.com/playlist?list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S)
 
 <hr>
 <h3 align='center'>6. Recursos Extra</h3>
-<p align='center'><em>Fuentes para realizar proyectos propios</em></p>
+<p align='center'><em>Fuentes para realizar proyectos propios e investigar</em></p>
 
 - [*Kaggle*](https://www.kaggle.com/datasets)
 Comunidad que sube datasets y sus correspondientes análisis y modelos de predicción (IA).
@@ -71,7 +67,8 @@ Datasets oficiales de Estados Unidos,. Hacer proyectos con información y result
 - [*Notebook Viewer*](https://nbviewer.org/)
 Permite visualizar archivos en Jupyter Notebook (.ipynb) ingresando el link de GitHub.
 
-
+- [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+Explicación detallada del funcionamiento de las IAs de manera gráfica.
 
 
 
