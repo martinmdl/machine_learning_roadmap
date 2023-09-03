@@ -6,7 +6,7 @@ Tips:
 - [*Título cursiva*]() = Opcional
 - Saltear contenido ya aprendido.
 - Tomar apuntes propios y ejercitar a medida que se avanza.
-- Acostumbrarse a resolver dudas con [Bard](https://bard.google.com/), [GPT](https://chat.openai.com/), [StackOverflow](https://es.stackoverflow.com/), Documentación oficial.
+- Resolver dudas con [Bard](https://bard.google.com/), [GPT](https://chat.openai.com/), [StackOverflow](https://es.stackoverflow.com/), Documentación oficial.
 - El acento indio del inglés de *codebasics* se hace pesado, pero tiene subtítulos perfectos.
 
 <hr>
@@ -42,14 +42,14 @@ sino porque no hay nada que mecanizar, razonar o entender.
 Teoría básica para poder depurar el dataframe con mayor criterio antes de ejecutar las líneas código que entrenaran al modelo de predicción.
 
 - [***Machine Learning Algorithms**](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
-Explicación a implementación de los algoritmos mas útiles de Machine Learning (ML).
+Explicación a implementación de los algoritmos mas útiles de Machine Learning.
 
 - [*Machine Learning Projects*](https://www.youtube.com/playlist?list=PLeo1K3hjS3ut2o1ay5Dqh-r1kq6ZU8W0M)
 Proyectos guiados para prácticar lo aprendido y agregar al portfolio
 
 <hr>
 <h3 align='center'>5. Deep Learning</h3>
-<p align='center'><em>work in progress</em></p>
+<p align='center'><em>fiumba</em></p>
 
 - [Tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - [Proyectos](https://www.youtube.com/playlist?list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S)
