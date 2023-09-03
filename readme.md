@@ -21,7 +21,7 @@ No lo vi. Pero en general, es muy útil aprender el paradigma de programación o
 
 <hr>
 <h3 align='center'>2. Módulos de Python</h3>
-<p align='center'><em>Módulo = Libería. Aportan funcionalidades a python.</em></p>
+<p align='center'><em>Los módulo/liberías aportan funcionalidades a python.</em></p>
 
 - [*Numpy*](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
 Amplía y facilita las operaciones numéricas propias de python. Además, Pandas se basa en Numpy.
@@ -36,7 +36,7 @@ sino porque no hay nada que mecanizar, razonar o entender.
 
 <hr>
 <h3 align='center'>3. Machine Learning</h3>
-<p align='center'><em>Algoritmos de aprendizaje automático para realizar predicciones</em></p>
+<p align='center'><em>Predicciones a partir de algoritmos de aprendizaje automático. O Inteligencia Artificial</em></p>
 
 - [*Matemática Estadística*](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l)
 Teoría básica para poder depurar el dataframe con mayor criterio antes de ejecutar las líneas código que entrenaran al modelo de predicción.
@@ -53,6 +53,8 @@ Proyectos guiados para prácticar lo aprendido y agregar al portfolio
 lo que permite obtener resultados mas precisos inlcuso a partir de un dataset crudo.
 Para lograrlo, se utilizan frameworks de python tales como Tensorflow (Google) o Pytorch (Meta),
 los cuales demandan una mayor capacidad de procesamiento de la que veníamos necesitando hasta ahora</em></p>
+
+<p align='center'><em>Frameworks de Python que nos permitirán automatizar el trabajo y obtener mejores resultados, a costa de mayores tiempos de procesamiento y espacios en memoria.</em></p>
 
 - [Tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - [Proyectos](https://www.youtube.com/playlist?list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S)
