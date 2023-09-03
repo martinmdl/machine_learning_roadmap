@@ -6,7 +6,7 @@ Tips:
 - [*Título cursiva*]() = Opcional
 - Saltear contenido ya aprendido.
 - Ejercitar a medida que se avanza.
-- Acostumbrarse a resolver dudas con Bard, GPT, StackOverflow, Documentación.
+- Acostumbrarse a resolver dudas con [Bard](https://bard.google.com/), [GPT](https://chat.openai.com/), [StackOverflow](https://es.stackoverflow.com/), Documentación oficial.
 - El acento indio del inglés de *codebasics* se hace pesado, pero tiene subtítulos perfectos.
 
 <hr>
