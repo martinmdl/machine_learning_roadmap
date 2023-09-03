@@ -30,9 +30,9 @@ Amplía y facilita las operaciones numéricas propias de python. Además, Pandas
 Permite trabajar con Dataframes y aplicar algorimos de machine learning.
 
 - [*Seaborn*](https://seaborn.pydata.org/) o [*Matplotlib*](https://matplotlib.org/)
-*Ambos módulos son los más elegidos para graficar. En lo personal, elijo Seaborn por su estética.
+Ambos módulos son los más elegidos para graficar. En lo personal, elijo Seaborn por su estética.
 No los considero un aprendizaje obligatorio porque no porque no sean importantes,
-sino porque no hay nada que mecanizar, razonar o entender.*
+sino porque no hay nada que mecanizar, razonar o entender.
 
 <hr>
 <h3 align='center'>3. Machine Learning</h3>
@@ -68,7 +68,7 @@ Comunidad que sube datasets y sus correspondientes análisis y modelos de predic
 Datasets oficiales de Estados Unidos,. Hacer proyectos con información y resultados reales es mucho mas valioso.
 
 - [*Notebook Viewer*](https://nbviewer.org/)
-Permite visualizar archivos en Jupyter Notebook (.ipynb) ingresando el link de GitHub
+Permite visualizar archivos en Jupyter Notebook (.ipynb) ingresando el link de GitHub.
 
 
 
