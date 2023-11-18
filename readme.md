@@ -32,7 +32,7 @@ Permite trabajar los dataframes sobre los cuales se van a aplicar los algoritmos
 
 - [*Seaborn*](https://seaborn.pydata.org/) o [*Matplotlib*](https://matplotlib.org/)
 Ambos módulos son los más elegidos para graficar. En lo personal, elijo Seaborn por su estética.
-No los considero un aprendizaje obligatorio porque no porque no sean importantes,
+No los considero un aprendizaje obligatorio no porque no sean importantes,
 sino porque no hay nada que mecanizar, razonar o entender.
 
 <hr>
